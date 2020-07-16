@@ -1,4 +1,4 @@
-# PyChatRoom
+# pychatbox
 A python-based, secure chat application 
 
 This application was developed to learn about sockets in Python. It ended up making me learn these topics:
