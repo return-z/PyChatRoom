@@ -32,6 +32,8 @@ This application was developed to learn about sockets in Python. It ended up mak
   To use the SSL service, you can create your own self-signed certificates using openssl.
   Run the server code and then you can have multiple clients authenticate into the server. Rest is simple and self-explanatory.
   
-  
- 
- 
+## Screenshots
+
+![alt text](https://github.com/return-z/pychatbox/blob/master/screenshots/client_connect_page.PNG?raw=true)
+
+![alt text](https://github.com/return-z/pychatbox/blob/master/screenshots/server_and_client.PNG)
